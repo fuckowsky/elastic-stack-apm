@@ -13,7 +13,7 @@ Dockerized Elastic APM
 #git clone https://github.com/fuckowsky/elastic-stack-apm-nodejs.git  
 #cd elastic-stack-apm-nodejs  
 #sudo docker-compose up  
-Navigate to http://localhost:5601/app/kibana#/home/tutorial/apm  
+Navigate to http://localhost:5601/app/home#/tutorial/apm  
 Complete steps 4-6 to configure your application to collect and report APM data  
 Use the APM app at http://localhost:5601/app/apm to visualize your application performance data  
 When you’re done, ctrl+c will stop all of the containers  
