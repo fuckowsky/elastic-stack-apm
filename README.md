@@ -1,5 +1,5 @@
 # elastic-stack-apm-nodejs
-Dockerized Elastic APM
+Dockerized Elastic Stack with APM
 
 
 # INFO  
